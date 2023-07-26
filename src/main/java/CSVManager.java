@@ -9,9 +9,8 @@ import java.util.Date;
 
 
 public class CSVManager {
-    private static final Logger logger = LogManager.getLogger(CSVManager.class);
     public ArrayList<Producto> obtenerProductosDeCSV (String direccionDelArchivo) throws ProductoException {
-        Producto producto = null;
+        Producto producto;
         ArrayList<Producto> productos = new ArrayList<>();
         SimpleDateFormat dateFormat = new SimpleDateFormat("dd/MM/yyyy");
         Integer contador = 1;

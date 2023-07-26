@@ -51,14 +51,6 @@ public class Producto {
         this.fechaDeAlta = fechaDeAlta;
     }
 
-    public ArrayList<Producto> getProductos() {
-        return productos;
-    }
-
-    public void setProductos(ArrayList<Producto> productos) {
-        this.productos = productos;
-    }
-
     @Override
     public boolean equals(Object o) {
         if (this == o) return true;

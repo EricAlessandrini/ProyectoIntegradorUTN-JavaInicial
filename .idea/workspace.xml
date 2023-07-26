@@ -5,18 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="22079dde-9754-4863-a5db-e70481ff739a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CSVManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JDBCManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Producto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ProductoException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ProductosDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CSVManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CSVManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Producto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Producto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ProductoException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ProductoException.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,14 +41,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Java/Projects/ProyInt-CSV/src/main/java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Java/Projects/ProyInt-CSV/src/main/java&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Java\Projects\ProyInt-CSV\src\main\java" />
